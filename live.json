@@ -1,0 +1,891 @@
+﻿[
+  {
+    "channel": [
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ftvhd_taiwan"
+        ],
+        "number": "006",
+        "logo": "ftv.png",
+        "epg": "民視",
+        "name": "民視"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv071"
+        ],
+        "number": "008",
+        "logo": "ttv.png",
+        "epg": "台視",
+        "name": "台視"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=oV_i3Hsl_zg"
+        ],
+        "number": "009",
+        "logo": "daai.png",
+        "epg": "大愛",
+        "name": "大愛"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv091"
+        ],
+        "number": "010",
+        "logo": "ctv.png",
+        "epg": "中視",
+        "name": "中視"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv111"
+        ],
+        "number": "012",
+        "logo": "cts.png",
+        "epg": "華視",
+        "name": "華視"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=C6gYqSHLRw4"
+        ],
+        "number": "013",
+        "logo": "pts.png",
+        "epg": "公視",
+        "name": "公視"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8"
+        ],
+        "number": "019",
+        "logo": "discovery.png",
+        "epg": "Discovery",
+        "name": "Discovery"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=tlc_twn"
+        ],
+        "number": "020",
+        "logo": "tlc.png",
+        "epg": "旅遊生活",
+        "name": "旅遊生活"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=animalplanet_twn"
+        ],
+        "number": "021",
+        "logo": "animal-planet.png",
+        "epg": "動物星球",
+        "name": "動物星球"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=momo1_twn"
+        ],
+        "number": "022",
+        "logo": "cartoon-network.png",
+        "epg": "CN卡通頻道",
+        "name": "CN卡通頻道"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8514/http/220.130.87.218:8081/hls/90/80/momo5max.m3u8"
+        ],
+        "number": "024",
+        "logo": "momo-kids.png",
+        "epg": "MOMO親子台",
+        "name": "MOMO親子台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=yoyo_twn"
+        ],
+        "number": "025",
+        "logo": "yoyo.png",
+        "epg": "東森幼幼台",
+        "name": "東森幼幼台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=videolandzonghe"
+        ],
+        "number": "026",
+        "logo": "vl.png",
+        "epg": "緯來綜合台",
+        "name": "緯來綜合台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=badafirst"
+        ],
+        "number": "027",
+        "logo": "gtv.png",
+        "epg": "八大第一台",
+        "name": "八大第一台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=badazhonghe"
+        ],
+        "number": "028",
+        "logo": "gtv.png",
+        "epg": "八大綜合台",
+        "name": "八大綜合台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=sanlitaiwan"
+        ],
+        "number": "029",
+        "logo": "set.png",
+        "epg": "三立台灣台",
+        "name": "三立台灣台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8522/http/220.130.87.218:8081/hls/65/807/ch19.m3u8"
+        ],
+        "number": "030",
+        "logo": "set.png",
+        "epg": "三立都會台",
+        "name": "三立都會台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=weishichinese_twn"
+        ],
+        "number": "031",
+        "logo": "dragon-art.png",
+        "epg": "華藝中文台",
+        "name": "華藝中文台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ettvzhonghe"
+        ],
+        "number": "032",
+        "logo": "ebc.png",
+        "epg": "東森綜合台",
+        "name": "東森綜合台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv521"
+        ],
+        "number": "033",
+        "logo": "ebc.png",
+        "epg": "東森超視台",
+        "name": "東森超視台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ctizhonghe"
+        ],
+        "number": "036",
+        "logo": "cti.png",
+        "epg": "中天綜合台",
+        "name": "中天綜合台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8523/http/61.67.128.137:8081/hls/68/810/ch031.m3u8"
+        ],
+        "number": "037",
+        "logo": "era-azio.png",
+        "epg": "東風衛視台",
+        "name": "東風衛視台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8565/http/61.67.128.137:8081/hls/72/814/ch045.m3u8"
+        ],
+        "number": "038",
+        "logo": "much.png",
+        "epg": "年代MUCH",
+        "name": "年代MUCH"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ctient"
+        ],
+        "number": "039",
+        "logo": "cti.png",
+        "epg": "中天娛樂台",
+        "name": "中天娛樂台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8530/http/220.130.87.218:8081/hls/64/806/ch13.m3u8"
+        ],
+        "number": "040",
+        "logo": "ebc.png",
+        "epg": "東森戲劇台",
+        "name": "東森戲劇台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=badadrama"
+        ],
+        "number": "041",
+        "logo": "gtv.png",
+        "epg": "八大戲劇台",
+        "name": "八大戲劇台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=tvbshuanle_twn"
+        ],
+        "number": "042",
+        "logo": "tvbs.png",
+        "epg": "TVBS歡樂台",
+        "name": "TVBS歡樂台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8"
+        ],
+        "number": "046",
+        "logo": "nexttv-news.png",
+        "epg": "壹電視新聞台",
+        "name": "壹電視新聞台"
+      }, 
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=niandainews_twn"
+        ],
+        "number": "047",
+        "logo": "era-news.png",
+        "epg": "年代新聞台",
+        "name": "年代新聞台"
+      }, 
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=6IquAgfvYmc"
+        ],
+        "number": "048",
+        "logo": "global-news.png",
+        "epg": "寰宇新聞台",
+        "name": "寰宇新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=w87VGpgd90U"
+        ],
+        "number": "049",
+        "logo": "global-news.png",
+        "epg": "寰宇新聞台灣台",
+        "name": "寰宇新聞台灣台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=5n0y6b0Q25o"
+        ],
+        "number": "050",
+        "logo": "mnews.png",
+        "epg": "鏡電視新聞台",
+        "name": "鏡電視新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=V1p33hqPrUk"
+        ],
+        "number": "051",
+        "logo": "ebc.png",
+        "epg": "東森新聞台",
+        "name": "東森新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/live/vr3XyVCR4T0"
+        ],
+        "number": "052",
+        "logo": "cti.png",
+        "epg": "中天新聞台",
+        "name": "中天新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=ylYJSBUgaMA"
+        ],
+        "number": "053",
+        "logo": "ftv.png",
+        "epg": "民視新聞台",
+        "name": "民視新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=MV9mI0GChwo"
+        ],
+        "number": "054",
+        "logo": "set.png",
+        "epg": "三立新聞台",
+        "name": "三立新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=m_dhMSvUCIc"
+        ],
+        "number": "055",
+        "logo": "tvbs.png",
+        "epg": "TVBS新聞台",
+        "name": "TVBS新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=EnuEsX3FSh0"
+        ],
+        "number": "056",
+        "logo": "global-news.png",
+        "epg": "寰宇財經台",
+        "name": "寰宇財經台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=AEBeWMM1atA"
+        ],
+        "number": "057",
+        "logo": "ebc.png",
+        "epg": "東森財經新聞台",
+        "name": "東森財經新聞台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=xLqt2p6Dowo"
+        ],
+        "number": "058",
+        "logo": "ustv.png",
+        "epg": "非凡財經台",
+        "name": "非凡財經台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ettvmovie"
+        ],
+        "number": "062",
+        "logo": "ebc.png",
+        "epg": "東森電影台",
+        "name": "東森電影台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8555/http/220.130.87.218:8081/hls/69/811/ch35.m3u8"
+        ],
+        "number": "063",
+        "logo": "vl.png",
+        "epg": "緯來電影台",
+        "name": "緯來電影台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=lungxiangtime_twn"
+        ],
+        "number": "064",
+        "logo": "lstime.png",
+        "epg": "龍祥電影台",
+        "name": "龍祥電影台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8"
+        ],
+        "number": "065",
+        "logo": "hbo.png",
+        "epg": "HBO",
+        "name": "HBO"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ettvwestern"
+        ],
+        "number": "066",
+        "logo": "ebc.png",
+        "epg": "東森洋片台",
+        "name": "東森洋片台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=axn_twn"
+        ],
+        "number": "067",
+        "logo": "axn.png",
+        "epg": "AXN",
+        "name": "AXN"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=hollywoodmovies_twn"
+        ],
+        "number": "068",
+        "logo": "hollywood.png",
+        "epg": "好萊塢電影台",
+        "name": "好萊塢電影台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8559/http/220.130.87.218:8081/hls/71/813/ch42.m3u8"
+        ],
+        "number": "070",
+        "logo": "cinemax.png",
+        "epg": "CINEMAX",
+        "name": "CINEMAX"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8562/http/220.130.87.218:8081/hls/68/810/ch30.m3u8"
+        ],
+        "number": "071",
+        "logo": "vl.png",
+        "epg": "緯來育樂台",
+        "name": "緯來育樂台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv721"
+        ],
+        "number": "072",
+        "logo": "vl.png",
+        "epg": "緯來體育台",
+        "name": "緯來體育台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv731"
+        ],
+        "number": "073",
+        "logo": "DAZN_1.png",
+        "epg": "DAZN 1台",
+        "name": "DAZN 1台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv741"
+        ],
+        "number": "074",
+        "logo": "DAZN_2.png",
+        "epg": "DAZN 2台",
+        "name": "DAZN 2台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv771"
+        ],
+        "number": "075",
+        "logo": "vl.png",
+        "epg": "緯來日本台",
+        "name": "緯來日本台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv761"
+        ],
+        "number": "076",
+        "logo": "momo-tv.png",
+        "epg": "MOMO綜合台",
+        "name": "MOMO綜合台"
+      },
+      {
+        "urls": [
+          "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8"
+        ],
+        "number": "081",
+        "logo": "fanstv.png",
+        "epg": "番薯電視台",
+        "name": "番薯電視台"
+      },
+      {
+        "urls": [
+          "http://60.248.91.20:8000/main"
+        ],
+        "number": "082",
+        "logo": "tltv.png",
+        "epg": "天良綜合台",
+        "name": "天良綜合台"
+      },
+      {
+        "urls": [
+          "http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8"
+        ],
+        "number": "086",
+        "logo": "btsnet.png",
+        "epg": "佛衛慈悲台",
+        "name": "佛衛慈悲台"
+      },
+      {
+        "urls": [
+          "http://61.216.67.119:1935/lifetv/lifetv.stream/manifest_w1802864311.m3u8"
+        ],
+        "number": "087",
+        "logo": "lifetv.png",
+        "epg": "生命電視台",
+        "name": "生命電視台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=mtvhd_twn"
+        ],
+        "number": "096",
+        "logo": "mtv.png",
+        "epg": "MTV",
+        "name": "MTV"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8516/http/220.130.87.218:8081/hls/70/812/ch39.m3u8"
+        ],
+        "number": "097",
+        "logo": "animax.png",
+        "epg": "Animax",
+        "name": "Animax"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=jingtiancartoon_twn"
+        ],
+        "number": "107",
+        "logo": "goldentv.png",
+        "epg": "靖天卡通台",
+        "name": "靖天卡通台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=litv-longturn01"
+        ],
+        "number": "112",
+        "logo": "ltv.png",
+        "epg": "龍華卡通台",
+        "name": "龍華卡通台"
+      },
+      {
+        "urls": [
+          "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+        ],
+        "number": "119",
+        "logo": "dalitv.png",
+        "epg": "大立電視台",
+        "name": "大立電視台"
+      },
+      {
+        "urls": [
+          "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live"
+        ],
+        "number": "130",
+        "logo": "wxtv.png",
+        "epg": "唯心電視台",
+        "name": "唯心電視台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=eltasport1_twn"
+        ],
+        "number": "200",
+        "logo": "elta-sport-1.png",
+        "epg": "愛爾達體育1台",
+        "name": "愛爾達體育1台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=eltasport2_twn"
+        ],
+        "number": "201",
+        "logo": "elta-sport-2.png",
+        "epg": "愛爾達體育2台",
+        "name": "愛爾達體育2台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=eltasport3_twn"
+        ],
+        "number": "202",
+        "logo": "elta-sport-3.png",
+        "epg": "愛爾達體育3台",
+        "name": "愛爾達體育3台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=natgeowild_twn"
+        ],
+        "number": "203",
+        "logo": "elta-sport-4.png",
+        "epg": "愛爾達體育4台",
+        "name": "愛爾達體育4台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bosigolf1_twn"
+        ],
+        "number": "204",
+        "logo": "sportcast-blue.png",
+        "epg": "博斯高球一台",
+        "name": "博斯高球一台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bosigolf2_twn"
+        ],
+        "number": "205",
+        "logo": "sportcast-blue.png",
+        "epg": "博斯高球二台",
+        "name": "博斯高球二台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bositennis_twn"
+        ],
+        "number": "206",
+        "logo": "sportcast-green.png",
+        "epg": "博斯網球台",
+        "name": "博斯網球台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bosisport1_twn"
+        ],
+        "number": "209",
+        "logo": "sportcast-1.png",
+        "epg": "博斯運動一台",
+        "name": "博斯運動一台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bosisport2_twn"
+        ],
+        "number": "210",
+        "logo": "sportcast-2.png",
+        "epg": "博斯運動二台",
+        "name": "博斯運動二台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bbcearth_twn"
+        ],
+        "number": "252",
+        "logo": "bbc-earth.png",
+        "epg": "BBC Earth",
+        "name": "BBC Earth"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=discoverytwn_twn"
+        ],
+        "number": "253",
+        "logo": "discovery-asia.png",
+        "epg": "Discovery Asia",
+        "name": "Discovery Asia"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=discoveryhd_twn"
+        ],
+        "number": "255",
+        "logo": "discovery-dmax.png",
+        "epg": "DMAX",
+        "name": "DMAX"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ci_twn"
+        ],
+        "number": "259",
+        "logo": "crime.png",
+        "epg": "罪案偵緝頻道",
+        "name": "罪案偵緝頻道"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=bbclifestyle_twn"
+        ],
+        "number": "260",
+        "logo": "bbc-lifestyle.png",
+        "epg": "BBC Lifestyle",
+        "name": "BBC Lifestyle"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=jingtianintl_twn"
+        ],
+        "number": "265",
+        "logo": "familyfun.png",
+        "epg": "靖天國際台",
+        "name": "靖天國際台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=foodplanet_twn"
+        ],
+        "number": "275",
+        "logo": "food-planet.png",
+        "epg": "美食星球",
+        "name": "美食星球"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=afc_twn"
+        ],
+        "number": "276",
+        "logo": "afn.png",
+        "epg": "亞洲美食頻道",
+        "name": "亞洲美食頻道"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=asiatravel_twn"
+        ],
+        "number": "277",
+        "logo": "asia-travel.png",
+        "epg": "亞洲旅遊台",
+        "name": "亞洲旅遊台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=zhongshi_twn"
+        ],
+        "number": "308",
+        "logo": "ctv-classic.png",
+        "epg": "中視經典台",
+        "name": "中視經典台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=ttvzhonghe"
+        ],
+        "number": "310",
+        "logo": "ttv.png",
+        "epg": "台視綜合台",
+        "name": "台視綜合台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=4gtv-4gtv064"
+        ],
+        "number": "311",
+        "logo": "ctv-bravo.png",
+        "epg": "中視菁采台",
+        "name": "中視菁采台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=4gtv-4gtv067"
+        ],
+        "number": "312",
+        "logo": "tvbs.png",
+        "epg": "TVBS精采台",
+        "name": "TVBS精采台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=litv-longturn22"
+        ],
+        "number": "351",
+        "logo": "taiwan-drama.png",
+        "epg": "台灣戲劇台",
+        "name": "台灣戲劇台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=lunghuaxiju_twn"
+        ],
+        "number": "353",
+        "logo": "ltv.png",
+        "epg": "龍華戲劇台",
+        "name": "龍華戲劇台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=lunghuaidol_twn"
+        ],
+        "number": "354",
+        "logo": "ltv.png",
+        "epg": "龍華偶像台",
+        "name": "龍華偶像台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=eltayingju_twn"
+        ],
+        "number": "355",
+        "logo": "elta2.png",
+        "epg": "愛爾達影劇台",
+        "name": "愛爾達影劇台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=4gtv-4gtv042"
+        ],
+        "number": "359",
+        "logo": "pts.png",
+        "epg": "公視戲劇台",
+        "name": "公視戲劇台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8518/http/61.67.128.137:8092/upload/116/KMTV_TS-1111_1.m3u8"
+        ],
+        "number": "377",
+        "logo": "kmtv.png",
+        "epg": "韓國娛樂台",
+        "name": "韓國娛樂台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=meiyamovie_twn"
+        ],
+        "number": "610",
+        "logo": "mei-ah.png",
+        "epg": "美亞電影台",
+        "name": "美亞電影台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=xingwei_movie"
+        ],
+        "number": "611",
+        "logo": "ltv.png",
+        "epg": "龍華電影台",
+        "name": "龍華電影台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/smart5.php?id=lunghuajingdian_twn"
+        ],
+        "number": "615",
+        "logo": "ltv.png",
+        "epg": "龍華洋片台",
+        "name": "龍華洋片台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8"
+        ],
+        "number": "619",
+        "logo": "amc.png",
+        "epg": "AMC電影台",
+        "name": "AMC電影台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=litv-longturn21"
+        ],
+        "number": "624",
+        "logo": "ltv.png",
+        "epg": "龍華經典台",
+        "name": "龍華經典台"
+      },
+      {
+        "urls": [
+          "http://tv.usa5.345888.xyz.cdn.cloudflare.net/litv.php?id=4gtv-4gtv049"
+        ],
+        "number": "629",
+        "logo": "caichang.png",
+        "epg": "采昌影劇台",
+        "name": "采昌影劇台"
+      }
+    ],
+    "id": 1,
+    "logo": "http://tv.usa5.345888.xyz.cdn.cloudflare.net/img/tw.png",
+    "name": "台灣頻道"
+    }
+]
