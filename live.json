@@ -99,6 +99,15 @@
         "logo": "ustv.png",
         "epg": "非凡財經台",
         "name": "非凡財經台"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=pF507BLtbqU"
+        ],
+        "number": "058",
+        "logo": "ustv.png",
+        "epg": "三立財經新聞",
+        "name": "三立財經新聞"
       }
     ],
     "id": 1,
